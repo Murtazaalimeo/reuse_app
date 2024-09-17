@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116218870588",
+    "project_id": "reuse-d23a7",
+    "storage_bucket": "reuse-d23a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116218870588:android:d0a4efef967471d2d2bc39",
+        "android_client_info": {
+          "package_name": "com.example.reuse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu_XWQUUfsIF7dcfmIAeyNqr-YPX4NAMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
